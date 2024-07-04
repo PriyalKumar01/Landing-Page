@@ -34,4 +34,8 @@ __Interactive Elements:__ Engaging features to enhance user experience.
 Technologies Used
 ---------------------
 __HTML5:__ For the structure of the page.  
-__CSS3:__ For styling and layout.
+__CSS3:__ For styling and layout.   
+
+License
+---------
+© 2024 Priyal Kumar. All Rights Reserved.  
