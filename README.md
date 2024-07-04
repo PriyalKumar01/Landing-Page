@@ -25,12 +25,12 @@ This landing page is a demonstration of my skills in front-end web development, 
 
 # Features  
 
-__Responsive Design:__ Adjusts seamlessly to different screen sizes.
-__Modern Layout:__ Clean and attractive design.
-__User-Friendly Navigation:__ Easy to navigate with clear sections.
-__Interactive Elements:__ Engaging features to enhance user experience.
+__Responsive Design:__ Adjusts seamlessly to different screen sizes.  
+__Modern Layout:__ Clean and attractive design.  
+__User-Friendly Navigation:__ Easy to navigate with clear sections.  
+__Interactive Elements:__ Engaging features to enhance user experience.  
 
 Technologies Used
 ---------------------
-__HTML5:__ For the structure of the page.
+__HTML5:__ For the structure of the page.  
 __CSS3:__ For styling and layout.
