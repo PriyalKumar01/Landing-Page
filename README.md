@@ -1,9 +1,10 @@
 WD_Task 1 : Landing Page 
 -------------------------
-* __Name:__ Priyal Kumar
-* __I'D:__ CS11WX306404
+* __Name:__ Priyal Kumar  
+* __I'D:__ CS11WX306404  
+* __Domain:__ Web Development   
 * __Company:__ CodSoft  
-* __Duration:__ 4 Week (From 1st July,2024 - 31 July,2024 )
+* __Duration:__ 4 Week (From 1st July,2024 - 31 July,2024 )  
 
   
 Landing Page
